@@ -1,0 +1,27 @@
+_repo: The-Rat-Race_51854
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Franklin, Jay
+    birthdate: 1897
+    deathdate: 1967
+    gutenberg_agent_id: '46575'
+    url: http://www.gutenberg.org/2009/agents/46575
+    wikipedia: https://en.wikipedia.org/wiki/John_Franklin_Carter
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1939-1945 -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Rat Race
+url: http://www.gutenberg.org/ebooks/51854
